@@ -1,0 +1,15 @@
+.DS_Store
+.idea/
+*.iml
+.vscode/
+out/
+target/
+*.class
+*.jar
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.o
+*.out
+*.exe
