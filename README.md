@@ -11,6 +11,7 @@ Click on any ✅ to view the corresponding solution.
 | 0001 | Easy | Two Sum | Pending | [✅](./python/P0001_TwoSum/solution.py) | Pending | Pending |
 | 0009 | Easy | Palindrome Number | Pending | [✅](./python/P0009_PalindromeNumber/solution.py) | Pending | Pending |
 | 0014 | Easy | Longest Common Prefix | Pending | [✅](./python/P0014_LongestCommonPrefix/solution.py) | Pending | Pending |
+| 0035 | Easy | Longest Common Prefix | Pending | [✅](./python/P0035_SearchInsertPosition/solution.py) | Pending | Pending |
 | 0088 | Easy | Merge Sorted Array | Pending | Pending | Pending | Pending |
 | 0169 | Easy | Majority Element | Pending | [✅](./python/P0169_MajorityElement/solution.py) | Pending | Pending |
 | 0217 | Easy | Contains Duplicate | Pending | [✅](./python/P0217_ContainsDuplicate/solution.py) | Pending | Pending |
