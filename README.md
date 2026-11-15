@@ -14,7 +14,7 @@ Click on any ✅ to view the corresponding solution.
 | 0020 | Easy | Valid Parentheses | Pending | [✅](./python/P0020_ValidParentheses/solution.py) | Pending | Pending |
 | 0026 | Easy | Remove Duplicates From Sorted Array | Pending | [✅](./python/P0026_RemoveDuplicatesFromSortedArray/solution.py) | Pending | Pending |
 | 0027 | Easy | Remove Element | Pending | [✅](./python/P0027_RemoveElement/solution.py) | Pending | Pending |
-| 0035 | Easy | Longest Common Prefix | Pending | [✅](./python/P0035_SearchInsertPosition/solution.py) | Pending | Pending |
+| 0035 | Easy | Search Insert Position | Pending | [✅](./python/P0035_SearchInsertPosition/solution.py) | Pending | Pending |
 | 0088 | Easy | Merge Sorted Array | Pending | Pending | Pending | Pending |
 | 0169 | Easy | Majority Element | Pending | [✅](./python/P0169_MajorityElement/solution.py) | Pending | Pending |
 | 0217 | Easy | Contains Duplicate | Pending | [✅](./python/P0217_ContainsDuplicate/solution.py) | Pending | Pending |
