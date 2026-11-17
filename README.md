@@ -23,4 +23,5 @@ Click on any ✅ to view the corresponding solution.
 | 0231 | Easy | Power of Two | Pending | [✅](./python/P0231_PowerOfTwo/solution.py) | Pending | Pending |
 | 0242 | Easy | Valid Anagram | Pending | [✅](./python/P0242_ValidAnagram/solution.py) | Pending | Pending |
 | 0342 | Easy | Power of Four | Pending | [✅](./python/P0342_PowerOfFour/solution.py) | Pending | Pending |
+| 0387 | Easy | First Unique Character In A String | Pending | [✅](./python/P0387_FirstUniqueCharacterInAString/solution.py) | Pending | Pending |
 | 1768 | Easy | Merge Strings Alternately | [✅](./java/P1768_MergeStringsAlternately/Solution.java) | [✅](./python/P1768_MergeStringsAlternately/solution.py) | Pending | Pending | 
