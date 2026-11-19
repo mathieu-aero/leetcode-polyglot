@@ -26,4 +26,5 @@ Click on any ✅ to view the corresponding solution.
 | 0342 | Easy | Power of Four | Pending | [✅](./python/P0342_PowerOfFour/solution.py) | Pending | Pending |
 | 0344 | Easy | Reverse String | Pending | [✅](./python/P0344_ReverseString/solution.py) | Pending | Pending |
 | 0387 | Easy | First Unique Character In A String | Pending | [✅](./python/P0387_FirstUniqueCharacterInAString/solution.py) | Pending | Pending |
+| 0389 | Easy | Find The Difference | Pending | [✅](./python/P0389_FindTheDifference/solution.py) | Pending | Pending |
 | 1768 | Easy | Merge Strings Alternately | [✅](./java/P1768_MergeStringsAlternately/Solution.java) | [✅](./python/P1768_MergeStringsAlternately/solution.py) | Pending | Pending | 
