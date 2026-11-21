@@ -1,4 +1,4 @@
-package com.mathieu.leetcode;
+package P1768_MergeStringsAlternately;
 
 class Solution {
     public String mergeAlternately(String word1, String word2) {

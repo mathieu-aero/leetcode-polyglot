@@ -1,4 +1,4 @@
-package com.mathieu.leetcode;
+package P1768_MergeStringsAlternately;
 
 public class Main {
     public static void main(String[] args) {
