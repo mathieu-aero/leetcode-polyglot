@@ -18,7 +18,7 @@ Click on any ✅ to view the corresponding solution.
 | 0066 | Easy | Plus One | Pending | [✅](./python/P0066_PlusOne/solution.py) | Pending | Pending |
 | 0067 | Easy | Add Binary | Pending | [✅](./python/P0067_AddBinary/solution.py) | Pending | Pending |
 | 0088 | Easy | Merge Sorted Array | Pending | [✅](./python/P0088_MergeSortedArray/solution.py) | Pending | Pending |
-| 0094 | Easy | Binary Tree Inorder Traversal | Pending |  [✅](./python/P0094_BinaryTreeInorderTraversal/solution.py) | Pending | Pending |
+| 0094 | Easy | Binary Tree Inorder Traversal |   [✅](./java/src/P0094_BinaryTreeInorderTraversal/Solution.java) |  [✅](./python/P0094_BinaryTreeInorderTraversal/solution.py) | Pending | Pending |
 | 0169 | Easy | Majority Element | Pending | [✅](./python/P0169_MajorityElement/solution.py) | Pending | Pending |
 | 0217 | Easy | Contains Duplicate | Pending | [✅](./python/P0217_ContainsDuplicate/solution.py) | Pending | Pending |
 | 0231 | Easy | Power of Two | Pending | [✅](./python/P0231_PowerOfTwo/solution.py) | Pending | Pending |
