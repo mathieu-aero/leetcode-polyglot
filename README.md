@@ -1,6 +1,6 @@
 # LeetCode Polyglot
 
-Solutions to LeetCode problems implemented in **Java**, **Python**, **C#**, and **C++** to compare idioms, standard libraries, and algorithmic complexity across languages.
+Solutions to LeetCode problems implemented in **Java**, **Python**, **C#**, and **Rust** to compare idioms, standard libraries, and algorithmic complexity across languages.
 
 Click on any ✅ to view the corresponding solution.
 
