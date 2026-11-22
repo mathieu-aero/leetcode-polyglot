@@ -9,7 +9,7 @@ Click on any ✅ to view the corresponding solution.
 | # | Difficulty | <div align="center">Exercises</div> | Java | Python | C# | C++ |
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: |
 | 0001 | Easy | Two Sum | [✅](./java/src/P0001_TwoSum/Solution.java) | [✅](./python/P0001_TwoSum/solution.py) | Pending | Pending |
-| 0009 | Easy | Palindrome Number | [✅](./java/src/P0009_PalindromeNumber/solution.java) | [✅](./python/P0009_PalindromeNumber/solution.py) | Pending | Pending |
+| 0009 | Easy | Palindrome Number | [✅](./java/src/P0009_PalindromeNumber/Solution.java) | [✅](./python/P0009_PalindromeNumber/solution.py) | Pending | Pending |
 | 0014 | Easy | Longest Common Prefix | Pending | [✅](./python/P0014_LongestCommonPrefix/solution.py) | Pending | Pending |
 | 0020 | Easy | Valid Parentheses | Pending | [✅](./python/P0020_ValidParentheses/solution.py) | Pending | Pending |
 | 0026 | Easy | Remove Duplicates From Sorted Array | Pending | [✅](./python/P0026_RemoveDuplicatesFromSortedArray/solution.py) | Pending | Pending |
