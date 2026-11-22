@@ -1,18 +1,18 @@
 # LeetCode Polyglot
 
-Solutions to LeetCode problems implemented in **Java**, **Python**, **C#**, and **C++** to compare idioms, standard libraries, and algorithmic complexity across languages.
+Solutions to LeetCode problems implemented in **Java**, **Python**, **C#**, and **Rust** to compare idioms, standard libraries, and algorithmic complexity across languages.
 
 Click on any ✅ to view the corresponding solution.
 
 ## Exercises Tracking List
 
-| # | Difficulty | <div align="center">Exercises</div> | Java | Python | C# | C++ |
+| # | Difficulty | <div align="center">Exercises</div> | Java | Python | C# | Rust
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: |
 | 0001 | Easy | Two Sum | [✅](./java/src/P0001_TwoSum/Solution.java) | [✅](./python/P0001_TwoSum/solution.py) | Pending | Pending |
 | 0009 | Easy | Palindrome Number | [✅](./java/src/P0009_PalindromeNumber/Solution.java) | [✅](./python/P0009_PalindromeNumber/solution.py) | Pending | Pending |
 | 0014 | Easy | Longest Common Prefix | [✅](./java/src/P0014_LongestCommonPrefix/Solution.java)  | [✅](./python/P0014_LongestCommonPrefix/solution.py) | Pending | Pending |
 | 0020 | Easy | Valid Parentheses | [✅](./java/src/P0020_ValidParentheses/Solution.java) | [✅](./python/P0020_ValidParentheses/solution.py) | Pending | Pending |
-| 0026 | Easy | Remove Duplicates From Sorted Array | Pending | [✅](./python/P0026_RemoveDuplicatesFromSortedArray/solution.py) | Pending | Pending |
+| 0026 | Easy | Remove Duplicates From Sorted Array | [✅](./java/src/P0026_RemoveDuplicatesFromSortedArray/Solution.java)  | [✅](./python/P0026_RemoveDuplicatesFromSortedArray/solution.py) | Pending | Pending |
 | 0027 | Easy | Remove Element | Pending | [✅](./python/P0027_RemoveElement/solution.py) | Pending | Pending |
 | 0035 | Easy | Search Insert Position | Pending | [✅](./python/P0035_SearchInsertPosition/solution.py) | Pending | Pending |
 | 0066 | Easy | Plus One | Pending | [✅](./python/P0066_PlusOne/solution.py) | Pending | Pending |
