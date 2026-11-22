@@ -1,0 +1,19 @@
+package P0066_PlusOne;
+
+import java.util.Arrays;
+
+public class Main {
+    public static void main(String[] args) {
+
+        Solution sol = new Solution();
+
+        System.out.println(Arrays.toString(sol.plusOne(new int[]{1, 2, 3})));
+        System.out.println(Arrays.toString(sol.plusOne(new int[]{1, 2, 4})));
+        System.out.println(Arrays.toString(sol.plusOne(new int[]{4, 3, 2, 1})));
+        System.out.println(Arrays.toString(sol.plusOne(new int[]{9})));
+        System.out.println(Arrays.toString(sol.plusOne(new int[]{9, 9})));
+        System.out.println(Arrays.toString(sol.plusOne(new int[]{1, 9, 9})));
+        System.out.println(Arrays.toString(sol.plusOne(new int[]{0})));
+
+        }
+}
