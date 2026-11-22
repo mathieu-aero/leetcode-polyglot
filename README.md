@@ -6,7 +6,7 @@ Click on any ✅ to view the corresponding solution.
 
 ## Exercises Tracking List
 
-| # | Difficulty | <div align="center">Exercises</div> | Java | Python | C# | C++ |
+| # | Difficulty | <div align="center">Exercises</div> | Java | Python | C# | Rust
 | :---: | :---: | :--- | :---: | :---: | :---: | :---: |
 | 0001 | Easy | Two Sum | [✅](./java/src/P0001_TwoSum/Solution.java) | [✅](./python/P0001_TwoSum/solution.py) | Pending | Pending |
 | 0009 | Easy | Palindrome Number | [✅](./java/src/P0009_PalindromeNumber/Solution.java) | [✅](./python/P0009_PalindromeNumber/solution.py) | Pending | Pending |
