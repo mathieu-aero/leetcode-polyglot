@@ -19,7 +19,7 @@ Click on any ✅ to view the corresponding solution.
 | 0067 | Easy | Add Binary | Pending | [✅](./python/P0067_AddBinary/solution.py) | Pending | Pending |
 | 0088 | Easy | Merge Sorted Array | Pending | [✅](./python/P0088_MergeSortedArray/solution.py) | Pending | Pending |
 | 0094 | Easy | Binary Tree Inorder Traversal |   [✅](./java/src/P0094_BinaryTreeInorderTraversal/Solution.java) |  [✅](./python/P0094_BinaryTreeInorderTraversal/solution.py) | Pending | Pending |
-| 0121 | Easy | Majority Element | Pending | [✅](./python/P0121_BestTimeToBuyAndSellStock/solution.py) | Pending | Pending |
+| 0121 | Easy | Best Time To Buy And Sell Stock| Pending | [✅](./python/P0121_BestTimeToBuyAndSellStock/solution.py) | Pending | Pending |
 | 0169 | Easy | Majority Element | Pending | [✅](./python/P0169_MajorityElement/solution.py) | Pending | Pending |
 | 0217 | Easy | Contains Duplicate | Pending | [✅](./python/P0217_ContainsDuplicate/solution.py) | Pending | Pending |
 | 0231 | Easy | Power of Two | Pending | [✅](./python/P0231_PowerOfTwo/solution.py) | Pending | Pending |
@@ -28,4 +28,5 @@ Click on any ✅ to view the corresponding solution.
 | 0344 | Easy | Reverse String | Pending | [✅](./python/P0344_ReverseString/solution.py) | Pending | Pending |
 | 0387 | Easy | First Unique Character In A String | Pending | [✅](./python/P0387_FirstUniqueCharacterInAString/solution.py) | Pending | Pending |
 | 0389 | Easy | Find The Difference | Pending | [✅](./python/P0389_FindTheDifference/solution.py) | Pending | Pending |
+| 0485 | Easy | Max Consecutives Ones | Pending | [✅](./python/P0485_MaxConsecutivesOnes/solution.py) | Pending | Pending |
 | 1768 | Easy | Merge Strings Alternately | [✅](./java//src/P1768_MergeStringsAlternately/Solution.java) | [✅](./python/P1768_MergeStringsAlternately/solution.py) | Pending | Pending | 
