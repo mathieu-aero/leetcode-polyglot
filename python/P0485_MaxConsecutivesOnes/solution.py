@@ -49,6 +49,6 @@ class Solution(object):
 
 if __name__ == "__main__":
     sol = Solution()
-    print(sol.findMaxConsecutiveOnes([1,1,0,1,1,1]))   # Expected: "apbqcr"
-    print(sol.findMaxConsecutiveOnes([1,0,1,1,0,1]))   # Expected: "apbqrs"
-    print(sol.findMaxConsecutiveOnes([1,1,1,1,0,0]))   # Expected: "apbqcd"
+    print(sol.findMaxConsecutiveOnes([1,1,0,1,1,1]))
+    print(sol.findMaxConsecutiveOnes([1,0,1,1,0,1]))
+    print(sol.findMaxConsecutiveOnes([1,1,1,1,0,0]))
