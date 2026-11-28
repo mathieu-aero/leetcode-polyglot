@@ -24,8 +24,10 @@ Click on any ✅ to view the corresponding solution.
 | 0217 | Easy | Contains Duplicate | Pending | [✅](./python/P0217_ContainsDuplicate/solution.py) | Pending | Pending |
 | 0231 | Easy | Power of Two | Pending | [✅](./python/P0231_PowerOfTwo/solution.py) | Pending | Pending |
 | 0242 | Easy | Valid Anagram | Pending | [✅](./python/P0242_ValidAnagram/solution.py) | Pending | Pending |
+| 0283 | Easy | Move Zeroes | Pending | [✅](./python/P0283_MoveZeroes/solution.py) | Pending | Pending |
 | 0342 | Easy | Power of Four | Pending | [✅](./python/P0342_PowerOfFour/solution.py) | Pending | Pending |
-| 0344 | Easy | Reverse String | Pending | [✅](./python/P0344_ReverseString/solution.py) | Pending | Pending |
+| 0344 | Easy | Reverse String | Pending | [✅](./python/P0344_ReverseString/solution.py) | Pending | Pending 
+| 0367 | Easy | Valid Perfect Square | Pending | [✅](./python/P0367_ValidPerfectSquare/solution.py) | Pending | Pending |
 | 0387 | Easy | First Unique Character In A String | Pending | [✅](./python/P0387_FirstUniqueCharacterInAString/solution.py) | Pending | Pending |
 | 0389 | Easy | Find The Difference | Pending | [✅](./python/P0389_FindTheDifference/solution.py) | Pending | Pending |
 | 0485 | Easy | Max Consecutives Ones | Pending | [✅](./python/P0485_MaxConsecutivesOnes/solution.py) | Pending | Pending |
