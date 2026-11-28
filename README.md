@@ -34,6 +34,7 @@ Click on any ✅ to view the corresponding solution.
 | 0387 | Easy | First Unique Character In A String | Pending | [✅](./python/P0387_FirstUniqueCharacterInAString/solution.py) | Pending | Pending |
 | 0389 | Easy | Find The Difference | Pending | [✅](./python/P0389_FindTheDifference/solution.py) | Pending | Pending |
 | 0392 | Easy | Is Subsequence | Pending | [✅](./python/P0392_IsSubsequence/solution.py) | Pending | Pending |
+| 0412 | Easy | Fizz Buzz | Pending | [✅](./python/P0412_FizzBuzz/solution.py) | Pending | Pending |
 | 0485 | Easy | Max Consecutives Ones | Pending | [✅](./python/P0485_MaxConsecutivesOnes/solution.py) | Pending | Pending |
 | 0674  |Easy | Longest Continuous Increasing Subsequence | Pending | [✅](./python/P0674_LongestContinuousIncreasingSubsequence/solution.py) | Pending | Pending |
 | 0724 | Easy | Find Pivot Index | Pending | [✅](./python/P0724_FindPivotIndex/solution.py) | Pending | Pending |
