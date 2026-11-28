@@ -20,6 +20,7 @@ Click on any ✅ to view the corresponding solution.
 | 0088 | Easy | Merge Sorted Array | Pending | [✅](./python/P0088_MergeSortedArray/solution.py) | Pending | Pending |
 | 0094 | Easy | Binary Tree Inorder Traversal |   [✅](./java/src/P0094_BinaryTreeInorderTraversal/Solution.java) |  [✅](./python/P0094_BinaryTreeInorderTraversal/solution.py) | Pending | Pending |
 | 0121 | Easy | Best Time To Buy And Sell Stock| Pending | [✅](./python/P0121_BestTimeToBuyAndSellStock/solution.py) | Pending | Pending |
+| 0125 | Easy | Valid Palindrome | Pending | [✅](./python/P0125_ValidPalindrome/solution.py) | Pending | Pending |
 | 0136 | Easy | Single number | Pending | [✅](./python/P0136_SingleNumber/solution.py) | Pending | Pending |
 | 0169 | Easy | Majority Element | Pending | [✅](./python/P0169_MajorityElement/solution.py) | Pending | Pending |
 | 0202 | Easy | Happy Number | Pending | [✅](./python/P0202_HappyNumber/solution.py) | Pending | Pending |
