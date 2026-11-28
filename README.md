@@ -15,7 +15,7 @@ Click on any ✅ to view the corresponding solution.
 | 0026 | Easy | Remove Duplicates From Sorted Array | [✅](./java/src/P0026_RemoveDuplicatesFromSortedArray/Solution.java)  | [✅](./python/P0026_RemoveDuplicatesFromSortedArray/solution.py) | Pending | Pending |
 | 0027 | Easy | Remove Element | [✅](./java/src/P0027_RemoveElement/Solution.java) | [✅](./python/P0027_RemoveElement/solution.py) | Pending | Pending |
 | 0035 | Easy | Search Insert Position | [✅](./java/src/P0035_SearchInsertPosition/Solution.java) | [✅](./python/P0035_SearchInsertPosition/solution.py) | Pending | Pending |
-| 0066 | Easy | Plus One | [✅](./java/src/P0066_PlusOne/Solution.py) | [✅](./python/P0066_PlusOne/solution.py) | Pending | Pending |
+| 0066 | Easy | Plus One | [✅](./java/src/P0066_PlusOne/Solution.java) | [✅](./python/P0066_PlusOne/solution.py) | Pending | Pending |
 | 0067 | Easy | Add Binary | Pending | [✅](./python/P0067_AddBinary/solution.py) | Pending | Pending |
 | 0088 | Easy | Merge Sorted Array | Pending | [✅](./python/P0088_MergeSortedArray/solution.py) | Pending | Pending |
 | 0094 | Easy | Binary Tree Inorder Traversal |   [✅](./java/src/P0094_BinaryTreeInorderTraversal/Solution.java) |  [✅](./python/P0094_BinaryTreeInorderTraversal/solution.py) | Pending | Pending |
@@ -32,4 +32,4 @@ Click on any ✅ to view the corresponding solution.
 | 0389 | Easy | Find The Difference | Pending | [✅](./python/P0389_FindTheDifference/solution.py) | Pending | Pending |
 | 0485 | Easy | Max Consecutives Ones | Pending | [✅](./python/P0485_MaxConsecutivesOnes/solution.py) | Pending | Pending |
 | 0905 | Easy | Sort Array By Parity | Pending | [✅](./python/P0905_SortArrayByParity/solution.py) | Pending | Pending |
-| 1768 | Easy | Merge Strings Alternately | [✅](./java//src/P1768_MergeStringsAlternately/Solution.java) | [✅](./python/P1768_MergeStringsAlternately/solution.py) | Pending | Pending | 
+| 1768 | Easy | Merge Strings Alternately | [✅](./java/src/P1768_MergeStringsAlternately/Solution.java) | [✅](./python/P1768_MergeStringsAlternately/solution.py) | Pending | Pending | 
