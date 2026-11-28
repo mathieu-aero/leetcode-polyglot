@@ -32,5 +32,6 @@ Click on any ✅ to view the corresponding solution.
 | 0389 | Easy | Find The Difference | Pending | [✅](./python/P0389_FindTheDifference/solution.py) | Pending | Pending |
 | 0485 | Easy | Max Consecutives Ones | Pending | [✅](./python/P0485_MaxConsecutivesOnes/solution.py) | Pending | Pending |
 | 0674  |Easy | Longest Continuous Increasing Subsequence | Pending | [✅](./python/P0674_LongestContinuousIncreasingSubsequence/solution.py) | Pending | Pending |
+| 0724 | Easy | Find Pivot Index | Pending | [✅](./python/P0724_FindPivotIndex/solution.py) | Pending | Pending |
 | 0905 | Easy | Sort Array By Parity | Pending | [✅](./python/P0905_SortArrayByParity/solution.py) | Pending | Pending |
 | 1768 | Easy | Merge Strings Alternately | [✅](./java/src/P1768_MergeStringsAlternately/Solution.java) | [✅](./python/P1768_MergeStringsAlternately/solution.py) | Pending | Pending | 
