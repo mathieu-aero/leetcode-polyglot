@@ -22,6 +22,7 @@ Click on any ✅ to view the corresponding solution.
 | 0121 | Easy | Best Time To Buy And Sell Stock| Pending | [✅](./python/P0121_BestTimeToBuyAndSellStock/solution.py) | Pending | Pending |
 | 0136 | Easy | Single number | Pending | [✅](./python/P0136_SingleNumber/solution.py) | Pending | Pending |
 | 0169 | Easy | Majority Element | Pending | [✅](./python/P0169_MajorityElement/solution.py) | Pending | Pending |
+| 0202 | Easy | Happy Number | Pending | [✅](./python/P0202_HappyNumber/solution.py) | Pending | Pending |
 | 0217 | Easy | Contains Duplicate | Pending | [✅](./python/P0217_ContainsDuplicate/solution.py) | Pending | Pending |
 | 0231 | Easy | Power of Two | Pending | [✅](./python/P0231_PowerOfTwo/solution.py) | Pending | Pending |
 | 0242 | Easy | Valid Anagram | Pending | [✅](./python/P0242_ValidAnagram/solution.py) | Pending | Pending |
